@@ -6,6 +6,9 @@
 
 	I cleaned up the obscenities since they don't add to the math
 */
+
+#include "passwords.h"
+
 char *passwords[10000] = {
 "password",
 "123456",
